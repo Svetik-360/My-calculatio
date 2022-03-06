@@ -1,0 +1,4 @@
+c:\users\podgu\onedrive\документы\visual studio 2012\Projects\MyСalculatio\MyСalculatio\bin\Debug\MyСalculatio.dll
+c:\users\podgu\onedrive\документы\visual studio 2012\Projects\MyСalculatio\MyСalculatio\bin\Debug\MyСalculatio.pdb
+c:\users\podgu\onedrive\документы\visual studio 2012\Projects\MyСalculatio\MyСalculatio\obj\Debug\MyСalculatio.dll
+c:\users\podgu\onedrive\документы\visual studio 2012\Projects\MyСalculatio\MyСalculatio\obj\Debug\MyСalculatio.pdb

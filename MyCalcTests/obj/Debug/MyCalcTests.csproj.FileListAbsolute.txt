@@ -1,0 +1,7 @@
+c:\users\podgu\onedrive\документы\visual studio 2012\Projects\MyСalculatio\MyCalcTests\bin\Debug\MyCalcTests.dll
+c:\users\podgu\onedrive\документы\visual studio 2012\Projects\MyСalculatio\MyCalcTests\bin\Debug\MyCalcTests.pdb
+c:\users\podgu\onedrive\документы\visual studio 2012\Projects\MyСalculatio\MyCalcTests\bin\Debug\MyСalculatio.dll
+c:\users\podgu\onedrive\документы\visual studio 2012\Projects\MyСalculatio\MyCalcTests\bin\Debug\MyСalculatio.pdb
+c:\users\podgu\onedrive\документы\visual studio 2012\Projects\MyСalculatio\MyCalcTests\obj\Debug\MyCalcTests.csprojResolveAssemblyReference.cache
+c:\users\podgu\onedrive\документы\visual studio 2012\Projects\MyСalculatio\MyCalcTests\obj\Debug\MyCalcTests.dll
+c:\users\podgu\onedrive\документы\visual studio 2012\Projects\MyСalculatio\MyCalcTests\obj\Debug\MyCalcTests.pdb
